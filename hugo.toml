@@ -1,6 +1,6 @@
 baseURL = 'https://Aryawn.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Aryawn's APU Lab Blog'
 theme = 'ananke'
 [caches]
   [caches.images]

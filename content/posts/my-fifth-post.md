@@ -1,0 +1,8 @@
++++
+date = '2026-05-11T22:15:21+05:30'
+draft = false
+title = 'My Fifth Post'
++++
+# The Power and Influence of Big Tech.
+This was presented by Dhruv Tiwari and group and it is the one that I have chosed to write about in this post. So i think that they power and influence play a very large role in the contemporary world. Especially in the case of economy and even in our every day lives. They have grown so large that pretty much all modern governments now rely on them too. Essentialy framing that as monuments that no country can function without. This unfortunately is also the case for India. It's citizens forced to use tech designed for western citizens and we dont have much say in the matter. They took OpenAI's Sam Altman as an example. The company redecntly made a deal with the US military. I agree with the presenters Idea that we need to add restrictions to big tech. They are treated as superpowers without any rules. essentially acting with the power of countries on their own without thinking about the effect it would have on their users and only thinking about the further profits that the company can suck out of the common man. I think it is very important for governments to come together to make a global coalition to fight against such power and control.
+I feel like the presenters could have been more vocal about their disdain for the big tech powers. And also they seemed unread about the topic. Like they were reading it for the first time. d
